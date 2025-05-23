@@ -11,7 +11,7 @@
 # 📊 GitHub Stats:
 <!-- ![](https://github-readme-stats.vercel.app/api?username=samikwangneo&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
 <a href="https://github.com/samikwangneo">
-  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samikwangneo&theme=tokyonight&hide_border=false" style="margin-right: 10px;" />
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samikwangneo&theme=tokyonight&hide_border=false" style="margin-right: 20px;" />
 </a>
 <a href="https://github.com/samikwangneo">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samikwangneo&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10&size_weight=0.3&count_weight=0.7&hide=Cython,Fortran,C%2B%2B,Powershell,Roff" />
