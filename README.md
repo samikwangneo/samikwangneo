@@ -12,6 +12,7 @@
 <!-- ![](https://github-readme-stats.vercel.app/api?username=samikwangneo&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=samikwangneo&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=samikwangneo&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10&size_weight=0.3&count_weight=0.7&hide=Cython,Fortran,Cplusplus,Powershell,Roff)
+[![Samik's Time stats](https://github-readme-stats.vercel.app/api/wakatime?username=samikwangneo)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---[![](https://visitcount.itsvg.in/api?id=samikwangneo&icon=0&color=0)](https://visitcount.itsvg.in) --->
