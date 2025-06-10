@@ -15,7 +15,7 @@
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://github.com/samikwangneo">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samikwangneo&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10&size_weight=0.3&count_weight=0.7&hide=Cython,Fortran,C%2B%2B,Powershell,Roff" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samikwangneo&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10&size_weight=0.2&count_weight=0.8&hide=Cython,Fortran,C%2B%2B,Powershell,Roff" />
 </a>
 
 <!---[![](https://visitcount.itsvg.in/api?id=samikwangneo&icon=0&color=0)](https://visitcount.itsvg.in) --->
